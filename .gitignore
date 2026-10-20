@@ -1,0 +1,15 @@
+# CLion settings
+.idea/
+
+# Generated build files
+cmake-build-*/
+build/
+
+# Local Python environments
+.venv/
+__pycache__/
+
+# Private datasets — keep synthetic examples elsewhere
+private-data/
+
+
